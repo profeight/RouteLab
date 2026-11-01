@@ -1,0 +1,22 @@
+ROUTELAB SOFTWARE LICENSE
+
+Copyright (c) RouteLab. All rights reserved.
+
+Permission is granted to download, install, and run an unmodified RouteLab
+binary release for personal study. Payment or donation is not required.
+This permission does not grant access to source code, a source-code license,
+permission to resell or sublicense the software, or permission to redistribute
+modified versions. No open-source license is granted.
+
+The software is provided AS IS, without warranties of merchantability,
+fitness for a particular purpose, or correctness of grading or study outcomes.
+To the extent permitted by applicable law, the publisher is not liable for
+damages arising from use of the software.
+
+Contest problems, figures, trademarks, and third-party material remain the
+property of their respective rights holders. This software license does not
+grant rights to those materials. Attribution and source links are retained in
+ATTRIBUTION.md and source-review.json. They are not evidence of affiliation,
+endorsement, or an open-content license.
+
+Stripe and Ko-fi process optional support payments under their own terms.

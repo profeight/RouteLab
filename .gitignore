@@ -1,0 +1,22 @@
+# Local user/development files must never be uploaded.
+progress*.json*
+test-progress*
+startup-error.txt
+*.log
+*.pdb
+*.cs
+*.csproj
+*.sln
+Source/
+source/
+src/
+work/
+bin/
+obj/
+*.user
+*.suo
+.env
+.env.*
+*.pem
+*.key
+screenshots/

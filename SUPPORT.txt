@@ -1,0 +1,13 @@
+SUPPORT ROUTELAB
+
+Donations are optional. Every study feature works without paying.
+
+Donate with Stripe:
+https://buy.stripe.com/6oUdR11MlaGb2YsfZLcV200
+
+Support on Ko-fi:
+https://ko-fi.com/prof8
+
+The app opens the selected page in your default browser. It does not collect
+or process card details. Payment providers handle their own checkout and may
+show the publisher's account or business information.
